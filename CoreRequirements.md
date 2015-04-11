@@ -1,18 +1,20 @@
 Authors: Luke Carlson, Mike Browne
 
 ## Introduction
-Telugu is a language with roots in several southeastern provinces in India. Though it is commonly written using a roman alphabet (with the assistance of pronunciation symbols) its original script is roughly 900 years old and is decended from the phoenician and aramaic alphabets.
+Telugu is a language with roots in several southeastern provinces in India. Though it is commonly written using a roman alphabet (with the assistance of pronunciation symbols) its original script is roughly ~900 years old and is decended from the phoenician and aramaic alphabets. The language itself has Dravidian roots, like most of its bretheren in southern India.
 
 ## Syntax and Morphology
 
 
 ## Speakers
 
+Telugu is one of the twenty-two national languages of India and is the third most-popular language in the country. It's the language most commonly spoken in the Andhra Pradesh, Telangana, and Yanam regions of India which are located in the southeast, bordering the Indian Ocean (see: http://bit.ly/1agopKx). In India alone, there are roughly seventy-four million native speakers leaving an estimated one million native speakers scattered around the globe (Canada and the US are home to two large populations of these people). The individuals located outside of India are most likely to be bi-lingual with either English or French being the two most commonly spoken second languages. Within India, it's comparatively more likely that a Telugu speaker only knows Telugu. If they are bi-lingual, they're likely to know another Hindi or English. As for a map of the worldwide distribution of Telugu speakers, we've included the link above to a outdated positioning of the language within India. As a vast majority of speakers are located in India (those who are not have moved from the country), there aren't any maps of Telugu speakers outside of India.
+
 ## Writing System
 
-Telugu is written in Telugu script, a beautiful curving alphabet that is ~2,400 - 2,500 years old. Currently, most speakers write/read a modernized version of the script which was standardized in the second half of the 20th century. Because of this, modern speakers don't understand the original Telugu script. There's a small Indian population at Penn that is fluent in Telugu, but none of them can read the original Telugu script.
+Telugu is written in Telugu script, a beautiful curving alphabet that is ~900 years old. Currently, most speakers write/read a modernized version of the script which was standardized in the second half of the 20th century. Because of this, modern speakers don't understand the original Telugu script. There's a small Indian population at Penn that is fluent in Telugu, but none of them can read the original Telugu script.
 
-The script reads left to right then downward on the page like English. With the help of keyboards, online converters, and other internet tools, anyone with access to the internet can write Telugu script. The plethora of online resources in Telugu script backs this up (several periodicals listed below).
+The script reads left to right then downward on the page like English. With the help of keyboards, online converters, and other internet tools, anyone with access to the internet can write Telugu script. The plethora of online resources in Telugu script backs this up - there are several periodicals written in the original script below.
  - Andhra Bhoomi
   - Leading Telugu daily newspaper distributed in Hyderabad, Vijayawada, Anantapur, Visakhapatnam, Rajahmundry, and Nellore
   - Link: http://www.andhrabhoomi.net/
