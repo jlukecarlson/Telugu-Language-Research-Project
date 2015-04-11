@@ -24,22 +24,22 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
     - Description: The person/people spoken to, speaking, or spoken about.
     - Examples:
       - English: I, you, me, he, she, etc.
-      - Telugu:
+      - Telugu: "I" = nēnu = నేను, "you" = Mīru = మీరు
   - Infinite Pronouns:
     - Description: A group, thing, or object that is acting or being acted upon
     - Example:
       - English: All, any, everybody, few, many, etc.
+      - Telugu: "Everybody" = andarū = అందరూ, "many" = anēka = అనేక
   - Relative Pronouns:
     - Description: Used to connect thoughts or ideas within sentences
     - Example:
-      - English:
-      - Telugu:
+      - English: Who, whom, which, whoever, etc.
+      - Telugu: "Who" = evaru = ఎవరు, "whom" = vīrilō = వీరిలో
   - Reflexive Pronouns:
-    - Description:
+    - Description: Pronouns used by the actor to describe the actor
     - Example:
-      - English:
-      - Telugu:
-
+      - English: myself, yourself, himself, ourselves, themselves, etc.
+      - Telugu: "myself" = nāku = నాకు, "themselves" = tāmu = తాము
 
 ## Speakers
 
