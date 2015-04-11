@@ -15,16 +15,17 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
   - Inflections occur mainly for nouns, which can be inflected for a variety of reasons. The three main reasons are as follows:
     - Number - singular or plural
     - Gender - masculine, feminine, or neutral
-    - Case - accusative, genitive, dative, nominative, vocative, instrumental, and locative
+    - Case - nominative, accusative, genitive, locative, ablative, dative, instrumental, and vocative
  - Cases & Genders
-  - Telugu has three genders: masculine, feminine, and neutral.
-  - Telugu
+  - Telugu has three genders: masculine, feminine, and neutral. Masculine nouns almost always have an ending with "-Du". These nouns can be modified to become feminine by removing the "-Du" and adding either an "i" or "rA-lu".
+  - Telugu has eight cases: nominative, accusative, genitive, locative, ablative, dative, instrumental, and vocative. There are varying suffixes for each of these cases which are added to the verb depending on the currently used case.
  - Pronouns & Politeness
+  - There are four main types of pronouns found in Telugu. They are all listed below. Pronouns and verbs are varied depending on formality (there are specific ways to translate verbs depending on the pronoun formality), an example of which is listed below.
   - Personal Pronouns:
     - Description: The person/people spoken to, speaking, or spoken about.
     - Examples:
       - English: I, you, me, he, she, etc.
-      - Telugu: "I" = nēnu = నేను, "you" = Mīru = మీరు
+      - Telugu: "I" = nēnu = నేను, "you" (formal) = mīru = మీరు, "you" (informal) = nīru = నీవు
   - Infinite Pronouns:
     - Description: A group, thing, or object that is acting or being acted upon
     - Example:
@@ -40,6 +41,8 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
     - Example:
       - English: myself, yourself, himself, ourselves, themselves, etc.
       - Telugu: "myself" = nāku = నాకు, "themselves" = tāmu = తాము
+ - Punctuation:
+  - Telugu script uses single bars to indicate a commas and double bars to indicate periods. Modern Telugu uses punctuation borrowed from English.
 
 ## Speakers
 
