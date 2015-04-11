@@ -18,11 +18,27 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
     - Case - accusative, genitive, dative, nominative, vocative, instrumental, and locative
  - Cases & Genders
   - Telugu has three genders: masculine, feminine, and neutral.
+  - Telugu
  - Pronouns & Politeness
   - Personal Pronouns:
+    - Description: The person/people spoken to, speaking, or spoken about.
+    - Examples:
+      - English: I, you, me, he, she, etc.
+      - Telugu:
   - Infinite Pronouns:
+    - Description: A group, thing, or object that is acting or being acted upon
+    - Example:
+      - English: All, any, everybody, few, many, etc.
   - Relative Pronouns:
+    - Description: Used to connect thoughts or ideas within sentences
+    - Example:
+      - English:
+      - Telugu:
   - Reflexive Pronouns:
+    - Description:
+    - Example:
+      - English:
+      - Telugu:
 
 
 ## Speakers
