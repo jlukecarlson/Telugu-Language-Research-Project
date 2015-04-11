@@ -7,15 +7,17 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
 
  - Order of Elements
   - Subject Object Verb (SOV): Telugu's ordering of the subject, verb, and object is different from English, using an SOV ordering instead of an SVO ordering.
-  - Adjective Placement: Adjectives are placed before the noun or pronoun they modify (the opposite of French and other romance languages). For example, the phrase big dog = pedda kukka = పెద్ద కుక్క where dog = kukka = కుక్క and big = pedda = పెద్ద.
-  - Adverb Placement:
+  - Adjective Placement: Adjectives are placed before the noun or pronoun they modify (the opposite of French and other romance languages). For example, the phrase "big dog" = pedda kukka = పెద్ద కుక్క where "dog" = kukka = కుక్క and "big" = pedda = పెద్ద.
+  - Adverb Placement: Adverbs are placed before the verb they modify which is different from the way it's done in English. A good example is the phrase "runs quickly" = tvaragā naḍustundi = త్వరగా నడుస్తుంది where "quickly" = tvaragā = త్వరగా and "runs" = naḍustundi = నడుస్తుంది.
  - Word Order
-  -
+  - Word order is not free in Telugu, as one might conclude from the statements above regarding the placement of subjects, objects, verbs, adjectives, etc.
  - Interactional Morphology
+  - Inflections occur mainly for nouns, which can be inflected for a variety of reasons. The three main reasons are as follows:
+    - Number - singular or plural
+    - Gender - masculine, feminine, or neutral
+    - Case - accusative, genitive, dative, nominative, vocative, instrumental, and locative
  - Cases & Genders
-  - Masculine:
-  - Feminine:
-  - Neutral:
+  - Telugu has three genders: masculine, feminine, and neutral.
  - Pronouns & Politeness
   - Personal Pronouns:
   - Infinite Pronouns:
