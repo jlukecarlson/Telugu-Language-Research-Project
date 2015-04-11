@@ -10,6 +10,19 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
 
 ## Writing System
 
+Telugu is written in Telugu script, a beautiful curving alphabet that is ~2,400 - 2,500 years old. Currently, most speakers write/read a modernized version of the script which was standardized in the second half of the 20th century. Because of this, modern speakers don't understand the original Telugu script. There's a small Indian population at Penn that is fluent in Telugu, but none of them can read the original Telugu script.
+
+The script reads left to right then downward on the page like English. With the help of keyboards, online converters, and other internet tools, anyone with access to the internet can write Telugu script. The plethora of online resources in Telugu script backs this up (several periodicals listed below).
+ - Andhra Bhoomi
+  - Leading Telugu daily newspaper distributed in Hyderabad, Vijayawada, Anantapur, Visakhapatnam, Rajahmundry, and Nellore
+  - Link: http://www.andhrabhoomi.net/
+ - Andhra Jyothy
+  - Popular Telugu newspaper published in the Andhra Pradesh region
+  - Link: http://www.andhrajyothy.com/
+ - Suryaa
+  - Another popoular Telugu newspaper published in the Andhra Pradesh region
+  - Link: http://www.suryaa.com/
+
 ## Machine Translation Systems
 
 There are a minimal number of machine translation systems for Telugu. The largest is Google, which has incorporated Telugu into their translation site and also has a beta transliteration program. For example, the sentence "this is a sentence" gets translated as దీనిని వాక్యం ఉందిand transliterated as Dīnini vākyaṁ .
