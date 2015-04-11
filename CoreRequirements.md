@@ -5,10 +5,27 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
 
 ## Syntax and Morphology
 
+ - Order of Elements
+  - Subject Object Verb (SOV): Telugu's ordering of the subject, verb, and object is different from English, using an SOV ordering instead of an SVO ordering.
+  - Adjective Placement: Adjectives are placed before the noun or pronoun they modify (the opposite of French and other romance languages). For example, the phrase big dog = pedda kukka = పెద్ద కుక్క where dog = kukka = కుక్క and big = pedda = పెద్ద.
+  - Adverb Placement:
+ - Word Order
+  -
+ - Interactional Morphology
+ - Cases & Genders
+  - Masculine:
+  - Feminine:
+  - Neutral:
+ - Pronouns & Politeness
+  - Personal Pronouns:
+  - Infinite Pronouns:
+  - Relative Pronouns:
+  - Reflexive Pronouns:
+
 
 ## Speakers
 
-Telugu is one of the twenty-two national languages of India and is the third most-popular language in the country. It's the language most commonly spoken in the Andhra Pradesh, Telangana, and Yanam regions of India which are located in the southeast, bordering the Indian Ocean (see: http://bit.ly/1agopKx). In India alone, there are roughly seventy-four million native speakers leaving an estimated one million native speakers scattered around the globe (Canada and the US are home to two large populations of these people). The individuals located outside of India are most likely to be bi-lingual with either English or French being the two most commonly spoken second languages. Within India, it's comparatively more likely that a Telugu speaker only knows Telugu. If they are bi-lingual, they're likely to know another Hindi or English. As for a map of the worldwide distribution of Telugu speakers, we've included the link above to a outdated positioning of the language within India. As a vast majority of speakers are located in India (those who are not have moved from the country), there aren't any maps of Telugu speakers outside of India.
+Telugu is one of the twenty-two national languages of India and is the third most-popular language in the country. It's the language most commonly spoken in the Andhra Pradesh, Telangana, and Yanam regions of India which are located in the southeast, bordering the Indian Ocean (see: http://bit.ly/1agopKx). In India alone, there are roughly seventy-four million native speakers leaving an estimated one million native speakers scattered around the globe (Canada and the US are home to two large populations of these people). The individuals located outside of India are most likely to be bi-lingual with either English or French being the two most commonly spoken second languages. Within India, it's comparatively more likely that a Telugu speaker only knows Telugu. If they are bi-lingual, they're likely to know either Hindi or English. As for a map of the worldwide distribution of Telugu speakers, we've included the link above to a outdated positioning of the language within India. As a vast majority of speakers are located in India (those who are not have moved from the country), there aren't any maps of Telugu speakers outside of India.
 
 ## Writing System
 
