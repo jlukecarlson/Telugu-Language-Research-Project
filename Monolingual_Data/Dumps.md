@@ -5,5 +5,5 @@
 
 ## Downloading Directions
 - Telugu Wikipedia Dump
-  1. Download the file at tewiki-20150328-pages-articles-multistream-index.txt.bz2
-  2. Unzip the file into the desired directory
+  1. Download the file at tewiki-20150328-pages-articles.xml.bz2
+  2. Unzip the XML file into the desired directory
