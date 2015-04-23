@@ -4,8 +4,7 @@ monolingual_data/*.xml.bz2
 monolingual_data/*.zip
 monolingual_data/*.txt
 
-# twitter_presense files
-twitter_presence/twitter-streamer/streamer/default.ini
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
