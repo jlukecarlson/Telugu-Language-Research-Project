@@ -1,7 +1,7 @@
-## Monolingual_Data
+## monolingual_data
 
 Large sources of content written in Telugu script available on the internet
 
 ## File Structure
 
-`Dumps.md` contains instructions on how to download Telugu data dumps
+`sources.md` contains instructions on how to download widely-available Telugu data dumps
