@@ -1,3 +1,9 @@
+# Monolingual_Data files
+monolingual_data/*.xml
+monolingual_data/*.xml.bz2
+monolingual_data/*.zip
+monolingual_data/*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
