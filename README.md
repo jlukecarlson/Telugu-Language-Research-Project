@@ -4,7 +4,7 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 ## File Structure
 
-`monolingual_data/` contains
+`monolingual_data/` contains directions that describe how to access widely-available Telugu texts
 
 `bilingual_dictionary/` {TBD - Luke Carlson}
 
