@@ -10,7 +10,7 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 `language_identification/` {TBD - Luke Carlson}
 
-`CoreRequirements.md` contains a brief summarization of the morphology and syntacital structure of Telugu
+`CoreRequirements.md` contains a brief summarization of the morphology and syntactical structure of Telugu
 
-`InitialResearch.md` contains initial research Luke 'The MT TANK' Carlsson and his Swedish harem
+`InitialResearch.md` contains initial research conducted by Luke 'The MT TANK' Carlsson and his Swedish harem
 
