@@ -4,15 +4,13 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 ## File Structure
 
-`Monolingual_Data/` contains a file that describes where and how to download the Telugu data dumps contained within that particular directory
+`monolingual_data/` contains
 
-  - `Dumps.md` contains instructions on how to download the data dumps contained within `Monolingual_Data/`
+`bilingual_dictionary/` {TBD - Luke Carlson}
 
+`language_identification/` {TBD - Luke Carlson}
 
+`CoreRequirements.md` contains a brief summarization of the morphology and syntacital structure of Telugu
 
-`Telugu_Dictionaries/` contains .csv files amassed using the following online dictionaries: (1) http://www.andhrabharati.com/dictionary and (2) http://telugu.changathi.com/Dictionary.aspx
-
-`CoreRequirements` contains a brief summarization of the morphology and syntacital structure of the language
-
-`InitialResearch` contains the work done so far by Luke 'The MT TANK' Carlsson and his Swedish harem
+`InitialResearch.md` contains initial research Luke 'The MT TANK' Carlsson and his Swedish harem
 
