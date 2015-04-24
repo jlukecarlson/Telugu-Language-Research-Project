@@ -1,0 +1,3 @@
+[submodule "twitter-streamer"]
+	path = twitter-streamer
+	url = https://github.com/mikeboydbrowne/twitter-streamer.git
