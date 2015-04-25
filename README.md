@@ -14,6 +14,8 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 `twitter-streamer/` contains a script to obtain a csv file of tweets written in Telugu
 
+`twitter-data/` contains the .csv file of tweets authored from a region that speaks predominantly Telugu. It also contains a .txt file of the metadata associated with those tweets
+
 `CoreRequirements.md` contains a brief summarization of the morphology and syntactical structure of Telugu
 
 `InitialResearch.md` contains initial research conducted by Luke 'The MT TANK' Carlsson and his Swedish harem
