@@ -58,3 +58,5 @@ target/
 
 # Emacs
 *~
+# ignore venv for now
+telugu_venv/
