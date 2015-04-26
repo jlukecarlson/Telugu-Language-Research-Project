@@ -1,0 +1,197 @@
+#!/usr/bin/env python
+# coding=utf-8
+import optparse
+import sys
+from collections import defaultdict
+
+optparser = optparse.OptionParser()
+optparser.add_option("-f", "--file", dest="file", default=sys.stdin, help="File to transliterate")
+(opts, _) = optparser.parse_args()
+
+input_file = [s.strip() for s in opts.file.readlines()]
+
+def transliterate(word):
+  print 'word: ' + word
+  trans_word = []
+  for c in list(word.decode("utf-8")):
+    if (c == 'అ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ఆ'.decode('utf-8')):
+      trans_word.append('ā')
+    if (c == 'ఇ'.decode('utf-8')):
+      trans_word.append('i')
+    if (c == 'ఈ'.decode('utf-8')):
+      trans_word.append('ī')
+    if (c == 'ఉ'.decode('utf-8')):
+      trans_word.append('u')
+    if (c == 'ఊ'.decode('utf-8')):
+      trans_word.append('ū')
+    if (c == 'ఋ'.decode('utf-8')):
+      trans_word.append('r')
+    if (c == 'ఌ'.decode('utf-8')):
+      trans_word.append('???')
+    if (c == 'ఎ'.decode('utf-8')):
+      trans_word.append('e')
+    if (c == 'ఏ'.decode('utf-8')):
+      trans_word.append('ē')
+    if (c == 'ఐ'.decode('utf-8')):
+      trans_word.append('ai')
+    if (c == 'ఒ'.decode('utf-8')):
+      trans_word.append('o')
+    if (c == 'ఓ'.decode('utf-8')):
+      trans_word.append('ō')
+    if (c == 'ఔ'.decode('utf-8')):
+      trans_word.append('au')
+    if (c == 'క'.decode('utf-8')):
+      trans_word.append('ka')
+    if (c == 'ఖ'.decode('utf-8')):
+      trans_word.append('kha')
+    if (c == 'గ'.decode('utf-8')):
+      trans_word.append('ga')
+    if (c == 'ఘ'.decode('utf-8')):
+      trans_word.append('gha')
+
+    # asdf;lajsd;ljasdf;ljasd;lfjasdf;lj
+    if (c == 'ఙ'.decode('utf-8')):
+      trans_word.append('ṅa')
+    if (c == 'చ'.decode('utf-8')):
+      trans_word.append('ca')
+    if (c == 'ఛ'.decode('utf-8')):
+      trans_word.append('cha')
+    if (c == 'జ'.decode('utf-8')):
+      trans_word.append('ja')
+    if (c == 'ఝ'.decode('utf-8')):
+      trans_word.append('jha')
+    if (c == 'ఞ'.decode('utf-8')):
+      trans_word.append('ña')
+    if (c == 'ట'.decode('utf-8')):
+      trans_word.append('ṭa')
+    if (c == 'ఠ'.decode('utf-8')):
+      trans_word.append('ṭha')
+    if (c == 'డ'.decode('utf-8')):
+      trans_word.append('ḍa')
+    if (c == 'ఢ'.decode('utf-8')):
+      trans_word.append('ḍha')
+    if (c == 'ణ'.decode('utf-8')):
+      trans_word.append('ṇa')
+    if (c == 'త'.decode('utf-8')):
+      trans_word.append('ta')
+    if (c == 'థ'.decode('utf-8')):
+      trans_word.append('tha')
+    if (c == 'ద'.decode('utf-8')):
+      trans_word.append('da')
+    if (c == 'ధ'.decode('utf-8')):
+      trans_word.append('dha')
+    if (c == 'న'.decode('utf-8')):
+      trans_word.append('na')
+    if (c == 'ప'.decode('utf-8')):
+      trans_word.append('pa')
+    if (c == 'ఫ'.decode('utf-8')):
+      trans_word.append('pha')
+    if (c == 'బ'.decode('utf-8')):
+      trans_word.append('ba')
+    if (c == 'భ'.decode('utf-8')):
+      trans_word.append('bha')
+    if (c == 'మ'.decode('utf-8')):
+      trans_word.append('ma')
+    if (c == 'య'.decode('utf-8')):
+      trans_word.append('ya')
+    if (c == 'ర'.decode('utf-8')):
+      trans_word.append('ra')
+    if (c == 'ఱ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ల'.decode('utf-8')):
+      trans_word.append('la')
+    if (c == 'ళ'.decode('utf-8')):
+      trans_word.append('va')
+    if (c == 'వ'.decode('utf-8')):
+      trans_word.append('va')
+    if (c == '౦'.decode('utf-8')):
+      trans_word.append('0')
+    if (c == '౧'.decode('utf-8')):
+      trans_word.append('1')
+    if (c == '౨'.decode('utf-8')):
+      trans_word.append('2')
+    if (c == '౩'.decode('utf-8')):
+      trans_word.append('3')
+    if (c == '౪'.decode('utf-8')):
+      trans_word.append('4')
+    if (c == '౫'.decode('utf-8')):
+      trans_word.append('5')
+    if (c == '౬'.decode('utf-8')):
+      trans_word.append('6')
+    if (c == '౭'.decode('utf-8')):
+      trans_word.append('7')
+    if (c == '౮'.decode('utf-8')):
+      trans_word.append('8')
+    if (c == '౯'.decode('utf-8')):
+      trans_word.append('9')
+
+    # unfinished transliterations
+    if (c == 'ఞ'.decode('utf-8')):
+      trans_word.append('')
+    if (c == ''.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'శ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ష'.decode('utf-8')):
+      trans_word.append('na')
+    if (c == 'స'.decode('utf-8')):
+      trans_word.append('ca')
+    if (c == 'హ'.decode('utf-8')):
+      trans_word.append('cha')
+    if (c == 'ా'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ి'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ీ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ు'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ూ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ృ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౄ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ె'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ే'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == '$ై'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ొ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ో'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౌ'.decode('utf-8')):
+      trans_word.append('na')
+    if (c == '్'.decode('utf-8')):
+      trans_word.append('ca')
+    if (c == 'ౕ'.decode('utf-8')):
+      trans_word.append('cha')
+    if (c == 'ౖ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౘ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౙ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౠ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౡ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౢ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౣ'.decode('utf-8')):
+      trans_word.append('a')
+    else:
+      trans_word.append(c)
+
+  print trans_word
+
+
+for l in input_file:
+  line = []
+  for w in l.split():
+    line.append(transliterate(w))
+
