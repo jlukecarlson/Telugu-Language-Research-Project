@@ -14,7 +14,7 @@ Every subdirectory (as listed below with point total adjacent) contains a file, 
 
 `monolingual_data/` [1pt] contains directions that describe how to access widely-available Telugu texts
 
-`transliteration/` [1pt] contains a script to transliterate from Telugu script to romanized-Telugu text
+`transliteration/` [~1pt] contains a script to transliterate from Telugu script to romanized-Telugu text
 
 `twitter-streamer/` contains the script used to obtain a csv file of tweets written in Telugu
 

@@ -1,3 +1,6 @@
+## twitter-data
+Tweets authored from the region where Telugu is the most commonly spoken language
+
 ## File Structure
 
 `labeled_tweets[labeled].csv` is a .csv file that contains the following comma-separated columns: (location) - (lat,lon) - (username) - (tweet) - (0 if contains no Telugu, 1 if contains Telugu)
