@@ -4,9 +4,9 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 ## File Structure
 
-`bilingual_dictionary/` {TBD - Luke Carlson}
+`bilingual_dictionary/` contains a script to obtain bilingual information from an online source and save it to files as it goes. Another script then combines the files to make one large dictionary file
 
-`language_identification/` {TBD - Luke Carlson}
+`language_identification/` contains a script that determines the likelyhood that an input was in telugu.
 
 `monolingual_data/` contains directions that describe how to access widely-available Telugu texts
 

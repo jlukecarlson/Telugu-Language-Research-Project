@@ -3,7 +3,7 @@ print sys.argv
 
 # is_telugu checks if mainly telugu characters
 # param s - input string
-# output - boolean corresponding to if it is telugu
+# output - 0.0 -> 1.0 determining probability of being telugu
 def is_telugu(s):
     # ensure input is unicode
     uni = s.decode('utf-8')
