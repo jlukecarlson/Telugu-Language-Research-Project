@@ -4,15 +4,18 @@ import sys
 import string
 import codecs
 import traceback
+from random import randint
+from time import sleep
 
 alphabet = string.ascii_lowercase #'abcdefghijklmnopqrstuvwxyz'
-# we already have a,b,c so start at d
-alphabet = alphabet[3:]
+# we already have a,b,c,d so start at e
+alphabet = alphabet[4:]
 browse_page = "http://www.shabdkosh.com/te/browse/"
 base_url = "http://www.shabdkosh.com"
 for letter in alphabet:
     sys.stderr.write(letter + "\n")
     try :
+        sleep(randint(1,10))
         req = urllib2.Request(browse_page + letter, headers={ 'User-Agent': 'Mozilla/5.0' })
         web_page = urllib2.urlopen(req).read()
         soup = BeautifulSoup(web_page)
@@ -23,6 +26,7 @@ for letter in alphabet:
             e_url = e['href']
             try:
                 url = base_url + e_url.replace(" ", "%20")
+                sleep(randint(1,15))
                 req = urllib2.Request(url, headers={ 'User-Agent': 'Mozilla/5.0' })
                 e_web_page = urllib2.urlopen(req).read()
                 e_soup = BeautifulSoup(e_web_page)
