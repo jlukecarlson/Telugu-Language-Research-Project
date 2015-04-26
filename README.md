@@ -4,15 +4,19 @@ Gathering data for a widely spoken but low resource language to help the statist
 
 ## File Structure
 
-`Monolingual_Data/` contains a file that describes where and how to download the Telugu data dumps contained within that particular directory
+`bilingual_dictionary/` {TBD - Luke Carlson}
 
-  - `Dumps.md` contains instructions on how to download the data dumps contained within `Monolingual_Data/`
+`language_identification/` {TBD - Luke Carlson}
 
+`monolingual_data/` contains directions that describe how to access widely-available Telugu texts
 
+`transliteration/` contains a script to transliterate from Telugu script to romanized-Telugu text
 
-`Telugu_Dictionaries/` contains .csv files amassed using the following online dictionaries: (1) http://www.andhrabharati.com/dictionary and (2) http://telugu.changathi.com/Dictionary.aspx
+`twitter-streamer/` contains a script to obtain a csv file of tweets written in Telugu
 
-`CoreRequirements` contains a brief summarization of the morphology and syntacital structure of the language
+`twitter-data/` contains the .csv file of tweets authored from a region that speaks predominantly Telugu. It also contains a .txt file of the metadata associated with those tweets
 
-`InitialResearch` contains the work done so far by Luke 'The MT TANK' Carlsson and his Swedish harem
+`CoreRequirements.md` contains a brief summarization of the morphology and syntactical structure of Telugu
+
+`InitialResearch.md` contains initial research conducted by Luke 'The MT TANK' Carlsson and his Swedish harem
 

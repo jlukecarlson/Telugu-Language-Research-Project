@@ -46,7 +46,11 @@ Telugu is a language with roots in several southeastern provinces in India. Thou
 
 ## Speakers
 
+### Overview
 Telugu is one of the twenty-two national languages of India and is the third most-popular language in the country. It's the language most commonly spoken in the Andhra Pradesh, Telangana, and Yanam regions of India which are located in the southeast, bordering the Indian Ocean (see: http://bit.ly/1agopKx). In India alone, there are roughly seventy-four million native speakers leaving an estimated one million native speakers scattered around the globe (Canada and the US are home to two large populations of these people). The individuals located outside of India are most likely to be bi-lingual with either English or French being the two most commonly spoken second languages. Within India, it's comparatively more likely that a Telugu speaker only knows Telugu. If they are bi-lingual, they're likely to know either Hindi or English. As for a map of the worldwide distribution of Telugu speakers, we've included the link above to a outdated positioning of the language within India. As a vast majority of speakers are located in India (those who are not have moved from the country), there aren't any maps of Telugu speakers outside of India.
+
+### Twitter Presence
+After using the tweepy twitter scraper to look for tweets in Telugu, we found a surprisingly small number of tweets in Telugu from the provinces where Telugu is most commonly spoken. This can be attributed to the fact that the twitter data was collected at ~4:30pm EST which is the middle of the night for the east cost of India. Another reason might be the fact that twitter is a fairly english-centric social network. A majority of the content created and shared on the site is written in english and it should be assumed that most users, regardless of their country of origin, would use english as their preferred language of communication.
 
 ## Writing System
 
