@@ -92,84 +92,20 @@ def transliterate(word):
       trans_word.append('ba')
     if (c == 'భ'.decode('utf-8')):
       trans_word.append('bha')
-    # if (c == 'ఞ'.decode('utf-8')):
-    #   trans_word.append('')
     if (c == 'మ'.decode('utf-8')):
       trans_word.append('ma')
     if (c == 'య'.decode('utf-8')):
       trans_word.append('ya')
     if (c == 'ర'.decode('utf-8')):
       trans_word.append('ra')
-
-
-
     if (c == 'ఱ'.decode('utf-8')):
       trans_word.append('a')
     if (c == 'ల'.decode('utf-8')):
       trans_word.append('la')
     if (c == 'ళ'.decode('utf-8')):
       trans_word.append('va')
-    # if (c == ''.decode('utf-8')):
-    #   trans_word.append('a')
-
     if (c == 'వ'.decode('utf-8')):
       trans_word.append('va')
-
-
-    # if (c == 'శ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ష'.decode('utf-8')):
-    #   trans_word.append('na')
-    # if (c == 'స'.decode('utf-8')):
-    #   trans_word.append('ca')
-    # if (c == 'హ'.decode('utf-8')):
-    #   trans_word.append('cha')
-    # if (c == 'ా'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ి'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ీ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ు'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ూ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ృ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౄ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ె'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ే'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == '$ై'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ొ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ో'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౌ'.decode('utf-8')):
-    #   trans_word.append('na')
-    # if (c == '్'.decode('utf-8')):
-    #   trans_word.append('ca')
-    # if (c == 'ౕ'.decode('utf-8')):
-    #   trans_word.append('cha')
-    # if (c == 'ౖ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౘ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౙ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౠ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౡ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౢ'.decode('utf-8')):
-    #   trans_word.append('a')
-    # if (c == 'ౣ'.decode('utf-8')):
-    #   trans_word.append('a')
-
-    # numbers completed
     if (c == '౦'.decode('utf-8')):
       trans_word.append('0')
     if (c == '౧'.decode('utf-8')):
@@ -190,6 +126,64 @@ def transliterate(word):
       trans_word.append('8')
     if (c == '౯'.decode('utf-8')):
       trans_word.append('9')
+
+    # unfinished transliterations
+    if (c == 'ఞ'.decode('utf-8')):
+      trans_word.append('')
+    if (c == ''.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'శ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ష'.decode('utf-8')):
+      trans_word.append('na')
+    if (c == 'స'.decode('utf-8')):
+      trans_word.append('ca')
+    if (c == 'హ'.decode('utf-8')):
+      trans_word.append('cha')
+    if (c == 'ా'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ి'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ీ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ు'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ూ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ృ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౄ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ె'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ే'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == '$ై'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ొ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ో'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౌ'.decode('utf-8')):
+      trans_word.append('na')
+    if (c == '్'.decode('utf-8')):
+      trans_word.append('ca')
+    if (c == 'ౕ'.decode('utf-8')):
+      trans_word.append('cha')
+    if (c == 'ౖ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౘ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౙ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౠ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౡ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౢ'.decode('utf-8')):
+      trans_word.append('a')
+    if (c == 'ౣ'.decode('utf-8')):
+      trans_word.append('a')
     else:
       trans_word.append(c)
 
