@@ -8,17 +8,16 @@ Every subdirectory (as listed below with point total adjacent) contains a file, 
 ## File Structure
 
 ### Directories
-`bilingual_dictionary/` [1pt] contains a script to obtain bilingual information from an online source and save it to files as it goes. Another script then combines the files to make one large dictionary file
 
-`language_identification/` [2pts] contains a script that determines the likelyhood that an input was in telugu.
+`project-1/` [1pt] contains directions that describe how to access widely-available Telugu texts
 
-`monolingual_data/` [1pt] contains directions that describe how to access widely-available Telugu texts
+`project-4/` [~1pt] contains a script to transliterate from Telugu script to romanized-Telugu text
 
-`transliteration/` [~1pt] contains a script to transliterate from Telugu script to romanized-Telugu text
+`project-5/` [2pts] contains a script that determines the likelyhood that an input was in telugu.
 
-`twitter-streamer/` contains the script used to obtain a csv file of tweets written in Telugu
+`project-6/` [2pts] contains the .csv file of tweets authored from a region that speaks predominantly Telugu. It also contains a .txt file of the metadata associated with those tweets
 
-`twitter-data/` [2pts] contains the .csv file of tweets authored from a region that speaks predominantly Telugu. It also contains a .txt file of the metadata associated with those tweets
+`project-8/` [1pt] contains a script to obtain bilingual information from an online source and save it to files as it goes. Another script then combines the files to make one large dictionary file
 
 ### Files
 `CoreRequirements.md` contains a brief summarization of the morphology and syntactical structure of Telugu

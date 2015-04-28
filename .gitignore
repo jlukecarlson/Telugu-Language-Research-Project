@@ -4,6 +4,9 @@ monolingual_data/*.xml.bz2
 monolingual_data/*.zip
 monolingual_data/*.txt
 
+final_submission/
+final_submission.zip
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
